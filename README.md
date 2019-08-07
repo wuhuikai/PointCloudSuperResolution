@@ -1,12 +1,12 @@
 # Point Cloud Super Resolution with Adversarial Residual Graph Networks
-[[arXiv]]() [[Home]](http://wuhuikai.me/)
+[[arXiv]](https://arxiv.org/abs/1908.02111) [[Home]](http://wuhuikai.me/)
 
 Official implementation of **Point Cloud Super Resolution with Adversarial Residual Graph Networks**. 
 ```
 @inproceedings{wu2019point,
   title     = {Point Cloud Super Resolution with Adversarial Residual Graph Networks},
   author    = {Wu, Huikai and Zhang, Junge and Huang, Kaiqi},
-  booktitle = {arXiv},
+  booktitle = {arXiv preprint arXiv:1908.02111},
   year      = {2019}
 }
 ```
