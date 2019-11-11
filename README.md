@@ -36,7 +36,7 @@ The code is tested with `TF1.5` (higher version should also work) and `Python 3.
     ``` 
 
 ## Train & Test   
-1. Download the training patches in HDF5 format from [GoogleDrive](https://drive.google.com/file/d/1te8d1y2BTFBL_3CB1jpqbOFzkkjvtKsE/view?usp=sharing) and put it in folder `data`.
+1. Download the training patches in HDF5 format from [GoogleDrive](https://drive.google.com/file/d/1wMtNGvliK_pUTogfzMyrz57iDb_jSQR8/view?usp=sharing) and put it in folder `data`.
 
 2. Train [Optional]
 
